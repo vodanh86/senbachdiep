@@ -57,7 +57,11 @@ button.btn.btn-transparent {
   overflow: hidden;
   position: relative
 }
-
+.header_title {
+  position: absolute;
+  top: 150px;
+  width: 100%;
+}
 button.btn.btn-transparent:hover {
     color: #000;
     background-color: #fff;
@@ -78,7 +82,7 @@ button.btn.btn-transparent:hover {
   height: 100%;
 }
 .btn {
-  padding: .375rem .75rem;}
+  padding: .35rem .7rem;}
   .btn.btn-outline-white {
     border: 2px solid #fff; }
     .btn.btn-outline-white:hover {

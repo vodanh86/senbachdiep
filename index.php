@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Sogo Hotel by Colorlib.com</title>
+    <title> Sen bạch diệp</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
@@ -70,11 +70,13 @@
         <video autoplay="" muted="" loop="" playsinline="" class="backgroundVideo" poster="image/home_page_1.png">
           <source src="videos/video_background.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
       </div>
-      <div class="container">
-        <div class="row site-hero-inner justify-content-center align-items-center">
-          <div class="col-md-10 text-center" data-aos="fade-up">
-            <span class="custom-caption text-uppercase text-white d-block  mb-3">Discover more</span>
-            <h1 class="heading">A quiet symphony of sensory pleasures to rejuvenate you</h1>
+      <div id="header_title" class="header_title text-white">
+        <div class="container">
+          <div class="row site-hero-inner justify-content-center align-items-center">
+            <div class="col-md-10 text-center">
+              <span class="custom-caption text-uppercase text-white d-block  mb-3">Discover more</span>
+              <h1 class="heading">A quiet symphony of sensory pleasures to rejuvenate you</h1>
+            </div>
           </div>
         </div>
       </div>
