@@ -6,11 +6,11 @@
     var $this = $(this);
     if ( $('body').hasClass('menu-open') ) {
       $this.removeClass('open');
-      $('.js-site-navbar').fadeOut(400);
+      $('.js-site-navbar').css('transform', 'scaleY(0)');
       $('body').removeClass('menu-open');
     } else {
       $this.addClass('open');
-      $('.js-site-navbar').fadeIn(400);
+      $('.js-site-navbar').css('transform', 'scaleY(1)');
       $('body').addClass('menu-open');
     }
   });
