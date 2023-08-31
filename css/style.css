@@ -118,6 +118,19 @@ button.btn.btn-transparent:hover {
 textarea.form-control {
   height: inherit; }
 
+.header_header_bottom {
+    bottom: 0;
+    border-top: 1px solid #fff;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    display: none;
+}
+@media (min-width: 768px){
+  .header_header_bottom {
+      display: block!important;
+  }
+}
 .site-header {
   position: fixed;
   top: 0;
@@ -252,11 +265,11 @@ textarea.form-control {
   height: 100vh;
   min-height: 700px; }
   .site-hero-inner .heading {
-    font-size: 80px;
+    font-size: 3.5em;
     font-family: "myFirstFont", times, serif;
     color: #fff;
     line-height: 1;
-    font-weight: bold; }
+    font-weight: 500; }
     @media (max-width: 991.98px) {
       .site-hero-inner .heading {
         font-size: 40px; } }
@@ -1111,12 +1124,17 @@ textarea.form-control {
   color: #000 !important; }
 
 .check-availabilty {
-  margin-top: -170px;
   position: relative; }
   .check-availabilty .block-32 {
-    background: #fff;
+    background: transparent;
     border-radius: 10px; }
 
+.check-in {
+    background-color: transparent!important;
+    color: #fff!important;
+    border: none!important
+}
+  
 .room {
   position: relative;
   display: block; }
