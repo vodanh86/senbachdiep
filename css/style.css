@@ -69,7 +69,7 @@ button.btn.btn-transparent:hover {
 
 .backgroundVideo {
   object-fit: cover;
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   top: 0;
   left: 0;
@@ -80,6 +80,26 @@ button.btn.btn-transparent:hover {
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
+}
+.offset-lg-3 {
+  padding-top:15px;
+  margin-left: 15%;
+  font-size: 1.4rem!important;
+  list-style-type: none; 
+}
+.hasDatepicker {
+  padding-top: 15px;
+  margin-left: 15px;
+  font-size: 1.4rem!important;
+  list-style-type: none; 
+}
+.ul-underline {
+  list-style: none; 
+}
+@media(min-width: 1400px) {
+  .container,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {
+      max-width:1320px
+  }
 }
 .btn {
   padding: .35rem .7rem;}
@@ -300,7 +320,7 @@ textarea.form-control {
   min-height: 500px; }
 
 .menu-open .site-menu-toggle span {
-  background: #000; }
+  background: #fff; }
 
 .site-menu-toggle {
   top: 0;

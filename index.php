@@ -81,32 +81,10 @@
         </div>
       </div>
       <div class="header_header_bottom"  >
-          <div class="row check-availabilty" id="next">
-                <div class="block-32" >
-                  <form action="#">
-                    <div class="row">
-                      <div class="col-md-6 mb-3 mb-lg-0 col-lg-3">
-                        <label for="checkin_date" class="font-weight-bold check-in">Check In</label>
-                        <div class="field-icon-wrap">
-                          <div class="icon"><span class="icon-calendar"></span></div>
-                          <input type="text" id="checkin_date" class="form-control">
-                        </div>
-                      </div>
-                      <div class="col-md-6 mb-3 mb-lg-0 col-lg-3">
-                        <label for="checkout_date" class="font-weight-bold check-in">Check Out</label>
-                        <div class="field-icon-wrap">
-                          <div class="icon"><span class="icon-calendar"></span></div>
-                          <input type="text" id="checkout_date" class="form-control">
-                        </div>
-                      </div>
-                      <div class="col-md-6 col-lg-3 align-self-end">
-                        <button class="btn btn-primary btn-block text-white">Check Availabilty</button>
-                      </div>
-                    </div>
-                  </form>
-                </div>
-              </div>
-          </div>
+        <div class="row check-availabilty" id="next">
+         <div class="container"><div class="row m-0"><div class="col-md-6 col-lg-5"><div class="row m-0"><div class="col-6"><a href="#header_title"><input type="text" class="check-in fs-5 text-white datepicker hasDatepicker" id="pickDateStart" readonly="" style="width:115px" value="Check-In"><img class="ui-datepicker-trigger" src="images/chevron-compact-down.png?v=1.1" alt="..." title="..."></a></div><div class="col-6"><a href="#header_title"><input type="text" class="check-in fs-5 text-white datepicker hasDatepicker" id="pickDateEnd" readonly="" style="width:100px" value="Check-Out"><img class="ui-datepicker-trigger" src="images/chevron-compact-down.png?v=1.1" alt="..." title="..."></a></div></div></div><div class="col-md-6 col-lg-4 offset-lg-3"><div class="checkAvailable text-white text-md-end text-lg-start"><ul class="ul-underline"><li><a href="https://book-directonline.com/properties/namanretreatdirect?arrival=2023-09-01&amp;departure=2023-09-02" class="fs-5 text-white" target="_blank" rel="noreferrer">Check Availability</a></li></ul></div></div></div></div>
+        </div>
+      </div>
     </section>
     <!-- END section -->
 
