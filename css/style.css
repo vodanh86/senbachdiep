@@ -96,6 +96,41 @@ button.btn.btn-transparent:hover {
 .ul-underline {
   list-style: none; 
 }
+@media (min-width: 1200px){
+  .fs-3 {
+    font-size: 1.75rem!important;
+  }
+}
+@media(min-width: 1200px) {
+  .fs-0 {
+      font-size:3.5em
+  }
+  .w-80 {
+      width: 70%;
+      width: 80%
+  }
+  .fs-1 {
+      font-size:2.5rem!important
+  }
+
+  .fs-2 {
+      font-size: 2rem!important
+  }
+
+  .fs-3 {
+      font-size: 1.75rem!important
+  }
+
+  .fs-4 {
+      font-size: 1.5rem!important
+  }
+}
+.text-white {
+  color: #fff!important;
+}
+.lspace-1 {
+  letter-spacing: 1px;
+}
 @media(min-width: 1400px) {
   .container,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {
       max-width:1320px

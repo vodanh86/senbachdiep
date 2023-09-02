@@ -91,13 +91,11 @@
     <section class="py-5 bg-light">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-md-12 col-lg-7 ml-auto order-lg-2 position-relative mb-5" data-aos="fade-up">oo
+          <div class="col-md-12 col-lg-7 ml-auto order-lg-2 position-relative mb-5" data-aos="fade-up">
             <img src="images/img_1.jpg" alt="Image" class="img-fluid rounded">
           </div>
           <div class="col-md-12 col-lg-4 order-lg-1" data-aos="fade-up">
-            <h2 class="heading">Welcome!</h2>
-            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p><a href="#" class="btn btn-primary text-white py-2 mr-3">Learn More</a> <span class="mr-3 font-family-serif"><em>or</em></span> <a href="https://vimeo.com/channels/staffpicks/93951774"  data-fancybox class="text-uppercase letter-spacing-1">See video</a></p>
+            <div class="ms-lg-5 "><h2 class="fs-3 text-black-50 mb-3 text-myriad-light">SPA &amp; WELLNESS</h2><h1 class="fs-0 w-lg-75 mb-3 mb-lg-5 text-futura">A no-wall spa lifestyle </h1><div class="fs-4 mb-3 mb-lg-5"><p>The moment you retreat into our free flowing, no wall sanctuary, you have entered a world of pure bliss.</p></div><a class="fs-5 text-bolder alink" href="/en/spa-and-wellness">View more</a></div>
           </div>
           
         </div>
@@ -108,8 +106,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-7">
-            <h2 class="heading" data-aos="fade-up">Rooms &amp; Suites</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+            <h2 class="heading" data-aos="fade-up">Let share with us your goal</h2>
           </div>
         </div>
         <div class="row">
@@ -155,42 +152,15 @@
     </section>
     
     
-    <section class="section slider-section bg-light">
-      <div class="container">
-        <div class="row justify-content-center text-center mb-5">
-          <div class="col-md-7">
-            <h2 class="heading" data-aos="fade-up">Photos</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
-              <div class="slider-item">
-                <a href="images/slider-1.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-1.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-2.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-2.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-3.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-3.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-4.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-4.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-5.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-5.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-6.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-6.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-7.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-7.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
+    <section class="slider-section" style='background-image:url(https://namanbackend.mpoint.vn/uploads/images/background_homepage.jpg);height:700px'>
+      <div style='background-color:rgba(16, 38, 33, 0.68); height: 100%; width: 100%' class='d-flex align-items-center'>  
+        <div class="container">
+          <div class="row justify-content-center text-center mb-5">
+            <div class="w-80">
+              <h1 class="heading fs-1 text-white lspace-1" data-aos="fade-up">Naman Retreat blur the lines between resort and spa;<br/> we offer you marvelous living spaces and countless opportunities to calm your mind, heal your body, and renew your soul.</h1>
+              <p class="text-white" data-aos="fade-up" data-aos-delay="100">ABOUT NAMAN CONCEPT</p>
             </div>
-            <!-- END slider -->
           </div>
-        
         </div>
       </div>
     </section>
