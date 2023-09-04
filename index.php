@@ -92,7 +92,14 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-12 col-lg-7 ml-auto order-lg-2 position-relative mb-5" data-aos="fade-up">
-            <img src="images/img_1.jpg" alt="Image" class="img-fluid rounded">
+            <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
+              <div class="slider-item">
+                <a href="images/Wellness-hp.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/Wellness-hp.jpg" alt="Image placeholder" class="img-fluid"></a>
+              </div>
+              <div class="slider-item">
+                <a href="images/spa_n_welless.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/spa_n_welless.jpg" alt="Image placeholder" class="img-fluid"></a>
+              </div>
+            </div>
           </div>
           <div class="col-md-12 col-lg-4 order-lg-1" data-aos="fade-up">
             <div class="ms-lg-5 "><h2 class="fs-3 text-black-50 mb-3 text-myriad-light">SPA &amp; WELLNESS</h2><h1 class="fs-0 w-lg-75 mb-3 mb-lg-5 text-futura">A no-wall spa lifestyle </h1><div class="fs-4 mb-3 mb-lg-5"><p>The moment you retreat into our free flowing, no wall sanctuary, you have entered a world of pure bliss.</p></div><a class="fs-5 text-bolder alink" href="/en/spa-and-wellness">View more</a></div>
