@@ -165,7 +165,7 @@
           <div class="row justify-content-center text-center mb-5">
             <div class="w-80">
               <h1 class="heading fs-1 text-white lspace-1" data-aos="fade-up">Naman Retreat blur the lines between resort and spa;<br/> we offer you marvelous living spaces and countless opportunities to calm your mind, heal your body, and renew your soul.</h1>
-              <p class="text-white" data-aos="fade-up" data-aos-delay="100">ABOUT NAMAN CONCEPT</p>
+              <p class="jsx-84984648 fs-5 text-uppercase text-white text-bolder alink alink-white" data-aos="fade-up" data-aos-delay="100">ABOUT NAMAN CONCEPT</p>
             </div>
           </div>
         </div>
