@@ -1,11 +1,19 @@
 @font-face {
-  font-family: "myFirstFont";
+  font-family: "MyriadLight";
   src: url('../fonts/myriad/MYRIADPRO-LIGHT_0.1d169f609b1972709363f43096d0c3ff.OTF');
+}
+@font-face {
+  font-family: "FuturaRegular";
+  src: url('../fonts/futura/VNF-FuturaRegular.bc3892ba39f4e683478069ca9f7525ee.ttf');
+}
+@font-face {
+  font-family: "MyriadBold";
+  src: url('../fonts/myriad/MYRIADPRO-SEMIBOLDSEMICN_0.a4c648858d6c6adedcff0edda03fca3e.OTF');
 }
 body {
   background: #fff;
   /*font-family: "Roboto", arial, sans-serif;*/
-  font-family: "myFirstFont";
+  font-family: "MyriadLight";
   font-weight: 200;
   font-size: 16px;
   line-height: 1.8;
@@ -30,13 +38,17 @@ a {
 
 h1, h2, h3, h4, h5 {
   color: #000;
-  font-family: "myFirstFont", times, serif; }
+  font-family: "MyriadLight", times, serif; }
 
 .font-family-serif {
-  font-family: "myFirstFont", times, serif; }
+  font-family: "MyriadLight", times, serif; }
 
 .font-family-sans-serif {
   font-family: "Roboto", arial, sans-serif; }
+
+.text-futura {
+    font-family: "FuturaRegular"!important;
+}
 
 .bg-light {
   background: #f2f4fb !important; }
@@ -96,6 +108,9 @@ button.btn.btn-transparent:hover {
 .ul-underline {
   list-style: none; 
 }
+.fs-5 {
+  font-size: 1.25rem!important
+}
 @media (min-width: 1200px){
   .fs-3 {
     font-size: 1.75rem!important;
@@ -128,8 +143,34 @@ button.btn.btn-transparent:hover {
 .text-white {
   color: #fff!important;
 }
+.c-white-color {
+  color: #fff!important
+}
+.text-bolder {
+  font-family: "MyriadBold"!important
+}
 .lspace-1 {
   letter-spacing: 1px;
+}
+.content_middle_left {
+  position: relative;
+  height: 700px
+}
+.content_middle_left_content {
+  position: absolute;
+  height: 80%;
+  top: 10%;
+  width: 40%;
+  margin-left: 0;
+  background-color: #022d26
+}
+.content_middle_left_image {
+  width: 70%;
+  margin-left: 30%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%
 }
 @media(min-width: 1400px) {
   .container,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {
@@ -233,7 +274,7 @@ textarea.form-control {
     color: #fff;
     font-weight: bold;
     line-height: 1;
-    font-family: "myFirstFont", times, serif; }
+    font-family: "MyriadLight", times, serif; }
     @media (max-width: 991.98px) {
       .site-logo a {
         font-size: 27px; } }
@@ -257,7 +298,7 @@ textarea.form-control {
   .site-navbar nav {
     text-align: left; }
     .site-navbar nav .menu {
-      font-family: "myFirstFont", times, serif; }
+      font-family: "MyriadLight", times, serif; }
       .site-navbar nav .menu li a {
         color: #000;
         font-size: 40px;
@@ -294,7 +335,7 @@ textarea.form-control {
   width: 100%;
   position: relative; }
   .site-hero .heading {
-    font-family: "myFirstFont", times, serif;
+    font-family: "MyriadLight", times, serif;
     font-weight: bold; }
   .site-hero .scroll-down {
     position: absolute;
@@ -326,7 +367,7 @@ textarea.form-control {
   min-height: 700px; }
   .site-hero-inner .heading {
     font-size: 3.5em;
-    font-family: "myFirstFont", times, serif;
+    font-family: "MyriadLight", times, serif;
     color: #fff;
     line-height: 1;
     font-weight: 500; }
@@ -460,7 +501,7 @@ textarea.form-control {
 
 .heading-serif, .heading, .testimonial-section .heading, .slider-section .heading, .blog-post-entry .heading {
   font-size: 60px;
-  font-family: "myFirstFont", times, serif;
+  font-family: "MyriadLight", times, serif;
   font-weight: 700; }
   @media (max-width: 991.98px) {
     .heading-serif, .heading, .testimonial-section .heading, .slider-section .heading, .blog-post-entry .heading {
@@ -829,7 +870,7 @@ textarea.form-control {
     border-color: #343a40; }
 
 .contact-section .contact-info p {
-  font-family: "myFirstFont", times, serif;
+  font-family: "MyriadLight", times, serif;
   font-size: 30px;
   margin-bottom: 30px; }
   .contact-section .contact-info p .d-block {

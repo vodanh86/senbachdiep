@@ -212,26 +212,97 @@
           <div class="col-md-12">
             <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
               <div class="slider-item">
-                <a href="images/slider-1.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                <div class="jsx-2630758013 content_middle_left">
+                  <div
+                    style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/dining/Cofftee-Club-night.jpg)"
+                    class="jsx-2630758013 content_middle_left_image"></div>
+                  <div class="jsx-2630758013 content_middle_left_content p-4 p-md-5">
+                    <h3 class="jsx-2630758013 text-white fs-3 text-myriad-light">DINING</h3>
+                    <h1 style="width:100%" class="jsx-2630758013 text-white fs-0 text-futura">Cofftee Club</h1>
+                    <div class="jsx-2630758013 text-grey fs-5 c-white-color">
+                      <p><strong>Share . Meet . Joy.</strong></p>
+                      <p>Absorb the mellow mood as our Cofftee Baristas delight you with their displays of coffee
+                        artistry, or enjoy a decadent afternoon high tea with family and new friends.</p>
+                    </div><a data-aos="fade-up" data-aos-delay="500"
+                      class="jsx-2630758013 mt-5 fs-5 text-white text-bolder alink aos-init"
+                      href="https://namanretreat.com/en/dining/cofftee-club">View more</a>
+                  </div>
+                </div>
               </div>
+
               <div class="slider-item">
-                <a href="images/slider-2.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-2.jpg" alt="Image placeholder" class="img-fluid"></a>
+                <div class="jsx-2630758013 content_middle_left">
+                  <div
+                    style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/dining/Cococita-interior.jpg)"
+                    class="jsx-2630758013 content_middle_left_image"></div>
+                  <div class="jsx-2630758013 content_middle_left_content p-4 p-md-5">
+                    <h3 class="jsx-2630758013 text-white fs-3 text-myriad-light">DINING</h3>
+                    <h1 style="width:100%" class="jsx-2630758013 text-white fs-0 text-futura">Cococita</h1>
+                    <div class="jsx-2630758013 text-grey fs-5 c-white-color">
+                      <p><strong>Share . Meet . Joy.</strong></p>
+                      <p>Treat your taste buds by savoring South American cuisine with a menu full of colors and flavors from Mexico. All the dishes are made entirely from scratch in our kitchen with imported Mexican and local ingredients</p>
+                    </div><a data-aos="fade-up" data-aos-delay="500"
+                      class="jsx-2630758013 mt-5 fs-5 text-white text-bolder alink aos-init"
+                      href="https://namanretreat.com/en/dining/cofftee-club">View more</a>
+                  </div>
+                </div>
               </div>
+
               <div class="slider-item">
-                <a href="images/slider-3.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                <div class="jsx-2630758013 content_middle_left">
+                  <div
+                    style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/Hay-Hay-architecture.jpg)"
+                    class="jsx-2630758013 content_middle_left_image"></div>
+                  <div class="jsx-2630758013 content_middle_left_content p-4 p-md-5">
+                    <h3 class="jsx-2630758013 text-white fs-3 text-myriad-light">DINING</h3>
+                    <h1 style="width:100%" class="jsx-2630758013 text-white fs-0 text-futura">Hay Hay</h1>
+                    <div class="jsx-2630758013 text-grey fs-5 c-white-color">
+                      <p><strong>Unique. Taste. All Day.</strong></p>
+                      <p>Impressive traditional bamboo architecture and exquisite interiors, combined with our authentic Vietnamese hospitality assures you a wonderful experience.</p>
+                    </div><a data-aos="fade-up" data-aos-delay="500"
+                      class="jsx-2630758013 mt-5 fs-5 text-white text-bolder alink aos-init"
+                      href="https://namanretreat.com/en/dining/cofftee-club">View more</a>
+                  </div>
+                </div>
               </div>
+
+
               <div class="slider-item">
-                <a href="images/slider-4.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-4.jpg" alt="Image placeholder" class="img-fluid"></a>
+                <div class="jsx-2630758013 content_middle_left">
+                  <div
+                    style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/B-Lounge2.jpg)"
+                    class="jsx-2630758013 content_middle_left_image"></div>
+                  <div class="jsx-2630758013 content_middle_left_content p-4 p-md-5">
+                    <h3 class="jsx-2630758013 text-white fs-3 text-myriad-light">DINING</h3>
+                    <h1 style="width:100%" class="jsx-2630758013 text-white fs-0 text-futura">B Lounge</h1>
+                    <div class="jsx-2630758013 text-grey fs-5 c-white-color">
+                      <p><strong>Sip. Tapas. DJ. B Connected.</strong></p>
+                      <p>Our ultra-contemporary ambient vibes heat up as the evening cools down. Just relax as our live entertainment creates an energetic atmosphere that completes our sophisticated lounge experience.</p>
+                    </div><a data-aos="fade-up" data-aos-delay="500"
+                      class="jsx-2630758013 mt-5 fs-5 text-white text-bolder alink aos-init"
+                      href="https://namanretreat.com/en/dining/cofftee-club">View more</a>
+                  </div>
+                </div>
               </div>
+              
               <div class="slider-item">
-                <a href="images/slider-5.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-5.jpg" alt="Image placeholder" class="img-fluid"></a>
+                <div class="jsx-2630758013 content_middle_left">
+                  <div
+                    style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/Sitini-Pool-Bar.jpg)"
+                    class="jsx-2630758013 content_middle_left_image"></div>
+                  <div class="jsx-2630758013 content_middle_left_content p-4 p-md-5">
+                    <h3 class="jsx-2630758013 text-white fs-3 text-myriad-light">DINING</h3>
+                    <h1 style="width:100%" class="jsx-2630758013 text-white fs-0 text-futura">Sitini Bar</h1>
+                    <div class="jsx-2630758013 text-grey fs-5 c-white-color">
+                      <p><strong>Chat. Chill. Zen.</strong></p>
+                      <p>Sitini offers you a breathtaking view of the ocean. Lap up the cool breeze as you watch the sun go down at the end of another perfect day at Naman Retreat.</p>
+                    </div><a data-aos="fade-up" data-aos-delay="500"
+                      class="jsx-2630758013 mt-5 fs-5 text-white text-bolder alink aos-init"
+                      href="https://namanretreat.com/en/dining/cofftee-club">View more</a>
+                  </div>
+                </div>
               </div>
-              <div class="slider-item">
-                <a href="images/slider-6.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-6.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/slider-7.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-7.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
+
             </div>
             <!-- END slider -->
           </div>
