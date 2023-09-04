@@ -7,6 +7,14 @@
   src: url('../fonts/futura/VNF-FuturaRegular.bc3892ba39f4e683478069ca9f7525ee.ttf');
 }
 @font-face {
+  font-family: "MyriadRegular";
+  src: url('../fonts/myriad/MYRIADPRO-REGULAR.f9d20e611fff4492635976edfaef73c6.OTF');
+}
+@font-face {
+  font-family: "MyriadLightSemi";
+  src: url('../fonts/myriad/MYRIADPRO-LIGHTSEMI.61b06094c01e5b6e1f2a26764566e58d.OTF');
+}
+@font-face {
   font-family: "MyriadBold";
   src: url('../fonts/myriad/MYRIADPRO-SEMIBOLDSEMICN_0.a4c648858d6c6adedcff0edda03fca3e.OTF');
 }
@@ -46,6 +54,9 @@ h1, h2, h3, h4, h5 {
 .font-family-sans-serif {
   font-family: "Roboto", arial, sans-serif; }
 
+.text-myriad-light {
+    font-family: MyriadLight!important;
+}
 .text-futura {
     font-family: "FuturaRegular"!important;
 }
@@ -129,6 +140,55 @@ button.btn.btn-transparent:hover {
 .fs-5 {
   font-size: 1.25rem!important
 }
+.fs-6 {
+  font-size: 1rem!important
+}
+.retreat_background {
+  background-color: rgba(16,38,33,.48);
+}
+.retreat_background>.retreat_content {
+  margin-top: 35px;
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out
+}
+
+.retreat_background:hover>.retreat_content {
+  margin-top: -25px
+}
+
+.retreat_content>.retreat_content_text {
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: 1s;
+  transition: 1s
+}
+
+.retreat_background:hover>.retreat_content>.retreat_content_text {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: 1s;
+  transition: 1s
+}
+.retreat_background div {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  width: 80%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%)
+}
+.retreat_content {
+  margin-top: 35px;
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out
+}
 @media (min-width: 1200px){
   .fs-3 {
     font-size: 1.75rem!important;
@@ -169,6 +229,12 @@ button.btn.btn-transparent:hover {
 }
 .text-futura {
   font-family: "FuturaRegular"!important
+}
+.text-regular {
+  font-family: "MyriadRegular"!important
+}
+.text-light-semi {
+  font-family: "MyriadLightSemi"!important;
 }
 .lspace-1 {
   letter-spacing: 1px;
@@ -569,7 +635,6 @@ textarea.form-control {
   width: 70px; }
 
 .post .media-custom {
-  background: #fff;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
