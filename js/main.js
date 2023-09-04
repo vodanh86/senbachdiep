@@ -42,30 +42,18 @@
 	// home slider
 	$('.home-slider').owlCarousel({
     loop:true,
-    autoplay: true,
+    items:1,
     margin:10,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
-    nav:true,
-    autoplayHoverPause: true,
-    items: 1,
-    autoheight: true,
-    navText : ["<span class='ion-chevron-left'></span>","<span class='ion-chevron-right'></span>"],
-    responsive:{
-      0:{
-        items:1,
-        nav:false
-      },
-      600:{
-        items:1,
-        nav:false
-      },
-      1000:{
-        items:1,
-        nav:true
-      }
-    }
-	});
+    autoplay:true,
+    autoplayTimeout:3000,
+    autoplayHoverPause:true
+  });
+  $('.play').on('click',function(){
+      owl.trigger('play.owl.autoplay',[1000])
+  })
+  $('.stop').on('click',function(){
+      owl.trigger('stop.owl.autoplay')
+  })
 
 	// owl carousel
 	var majorCarousel = $('.js-carousel-1');

@@ -419,7 +419,7 @@ textarea.form-control {
     transform: rotate(-135deg); }
 
 .section {
-  padding: 7em 0; }
+  padding: 2em 0; }
   @media (max-width: 991.98px) {
     .section {
       padding: 3em 0; } }
@@ -619,19 +619,18 @@ textarea.form-control {
     bottom: 100px;
     width: 100%; }
     .owl-carousel.home-slider .owl-dots .owl-dot {
-      width: 10px;
-      height: 10px;
-      margin: 5px;
-      border-radius: 50%;
+      border-radius: 0!important;
+      width: 28px!important;
+      height: 2px!important;
       border: 2px solid transparent;
       outline: none !important;
       position: relative;
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
       transition: .3s all ease;
-      background: #fff; }
+      background: #d9d9d9!important; }
       .owl-carousel.home-slider .owl-dots .owl-dot.active {
-        border: 2px solid white;
+        border: 2px solid #445d4d;
         background: none; }
 
 .owl-carousel.major-caousel .owl-stage-outer {
@@ -667,10 +666,10 @@ textarea.form-control {
     right: -60px !important; }
 
 .owl-carousel.major-caousel .owl-dots {
-  bottom: 50px !important; }
+  bottom: -30px !important; }
   @media (max-width: 991.98px) {
     .owl-carousel.major-caousel .owl-dots {
-      bottom: 10px !important; } }
+      bottom: -30px !important; } }
 
 .owl-carousel.js-carousel-2 .slider-item {
   padding: 0 20px;
