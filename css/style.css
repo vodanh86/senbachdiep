@@ -60,9 +60,15 @@ h1, h2, h3, h4, h5 {
 .text-futura {
     font-family: "FuturaRegular"!important;
 }
+a {
+  letter-spacing: 2px;
+  text-decoration: none!important;
+  color: #022d26!important;
+  font-family: MyriadLight!important
+}
 
 .bg-light {
-  background: #f2f4fb !important; }
+  background: #fff !important; }
 
 .container-fluid {
   max-width: 1600px; }
@@ -154,7 +160,11 @@ button.btn.btn-transparent:hover {
   -o-transition: all 1s ease-in-out;
   -ms-transition: all 1s ease-in-out
 }
-
+@media(min-width: 992px) {
+  .p-title {
+      padding:10% 5%;
+  }
+}
 .retreat_background:hover>.retreat_content {
   margin-top: -25px
 }
@@ -1513,3 +1523,89 @@ textarea.form-control {
         background: #ffba5a;
         color: #fff;
         border-radius: 50%; }
+
+@-webkit-keyframes waveTop {
+  0% {
+      margin-left: 0
+  }
+
+  to {
+      margin-left: -3200px
+  }
+}
+
+@keyframes waveTop {
+  0% {
+      margin-left: 0
+  }
+
+  to {
+      margin-left: -3200px
+  }
+}
+
+@-webkit-keyframes waveBottom {
+  0% {
+      margin-left: -3200px
+  }
+
+  to {
+      margin-left: 0
+  }
+}
+
+@keyframes waveBottom {
+  0% {
+      margin-left: -3200px
+  }
+
+  to {
+      margin-left: 0
+  }
+}
+
+@-webkit-keyframes swell {
+  0%,to {
+      -webkit-transform: translate3d(0,-25px,0);
+      transform: translate3d(0,-25px,0)
+  }
+
+  50% {
+      -webkit-transform: translate3d(0,5px,0);
+      transform: translate3d(0,5px,0)
+  }
+}
+
+@keyframes swell {
+  0%,to {
+      -webkit-transform: translate3d(0,-25px,0);
+      transform: translate3d(0,-25px,0)
+  }
+
+  50% {
+      -webkit-transform: translate3d(0,5px,0);
+      transform: translate3d(0,5px,0)
+  }
+}
+
+.wave-top {
+  background: url(../images/wave-top.jpg) repeat-x;
+  top: -55px;
+  height: 55px;
+  -webkit-animation: waveTop 25s cubic-bezier(.36,.45,.63,.53) infinite;
+  animation: waveTop 25s cubic-bezier(.36,.45,.63,.53) infinite
+}
+
+.wave-bottom,.wave-top {
+  width: 6400px;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0)
+}
+
+.wave-bottom {
+  background: url(../images/wave-bottom.jpg) repeat-x;
+  margin-top: -27px;
+  height: 90px;
+  -webkit-animation: waveBottom 25s cubic-bezier(.36,.45,.63,.53) infinite;
+  animation: waveBottom 25s cubic-bezier(.36,.45,.63,.53) infinite
+}

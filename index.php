@@ -157,8 +157,7 @@
         </div>
       </div>
     </section>
-    
-    
+      
     <section class="slider-section" style='background-image:url(https://namanbackend.mpoint.vn/uploads/images/background_homepage.jpg);height:700px'>
       <div style='background-color:rgba(16, 38, 33, 0.68); height: 100%; width: 100%' class='d-flex align-items-center'>  
         <div class="container">
@@ -172,6 +171,7 @@
       </div>
     </section>
     <!-- END section -->
+
     <section class="section blog-post-entry bg-light">
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
@@ -233,6 +233,11 @@
         </div>
       </div>
     </section>
+
+    <section class="slider-section" style='height:700px'>
+      <div class="jsx-28545549 py-5"><div class="jsx-28545549 wave-top"></div><div style="background-color:#E6E9E1" class="jsx-28545549 p-title"><div class="jsx-28545549 container text-center"><div class="jsx-28545549 w-75 m-auto"><h1 data-aos="fade-up" class="jsx-28545549 fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate"><p class="fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate" data-aos="fade-up">Naman Retreat is the perfect getaway for those who crave something bold, unique, and desire to awaken their senses.</p></h1><a data-aos="fade-up" data-aos-delay="500" class="jsx-28545549 fs-5 text-bolder alink aos-init aos-animate" href="/en/accommodation"><b class="jsx-28545549">View our rooms &amp; villas</b></a></div></div></div><div class="jsx-28545549 wave-bottom"></div></div>
+    </section>
+    <!-- END section -->
 
     <section class="section slider-section bg-light">
       <div class="container">
