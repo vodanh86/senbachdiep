@@ -234,8 +234,10 @@
       </div>
     </section>
 
-    <section class="slider-section" style='height:700px'>
-      <div class="jsx-28545549 py-5"><div class="jsx-28545549 wave-top"></div><div style="background-color:#E6E9E1" class="jsx-28545549 p-title"><div class="jsx-28545549 container text-center"><div class="jsx-28545549 w-75 m-auto"><h1 data-aos="fade-up" class="jsx-28545549 fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate"><p class="fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate" data-aos="fade-up">Naman Retreat is the perfect getaway for those who crave something bold, unique, and desire to awaken their senses.</p></h1><a data-aos="fade-up" data-aos-delay="500" class="jsx-28545549 fs-5 text-bolder alink aos-init aos-animate" href="/en/accommodation"><b class="jsx-28545549">View our rooms &amp; villas</b></a></div></div></div><div class="jsx-28545549 wave-bottom"></div></div>
+    <section class="slider-section">
+      <div class="jsx-28545549 py-5">
+        <div class="jsx-28545549 wave-top"></div><div style="background-color:#E6E9E1" class="jsx-28545549 p-title"><div class="jsx-28545549 container text-center"><div class="jsx-28545549 w-75 m-auto"><h1 data-aos="fade-up" class="jsx-28545549 fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate"><p class="fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate" data-aos="fade-up">Naman Retreat is the perfect getaway for those who crave something bold, unique, and desire to awaken their senses.</p></h1><a data-aos="fade-up" data-aos-delay="500" class="jsx-28545549 fs-5 text-bolder alink aos-init aos-animate" href="/en/accommodation"><b class="jsx-28545549">View our rooms &amp; villas</b></a></div></div></div><div class="jsx-28545549 wave-bottom"></div>
+      </div>
     </section>
     <!-- END section -->
 
@@ -342,6 +344,16 @@
         
         </div>
       </div>
+    </section>
+    <!-- END section -->
+
+    <section class="slider-section">
+      <div class="jsx-1879984714 background-middle-2 mt-5"><div class="jsx-1879984714 wave-top"></div><div style="background-color:#E6E9E1" class="jsx-1879984714 p-title"><div class="jsx-1879984714 container text-center"><div class="jsx-1879984714 w-75 m-auto"><h1 data-aos="fade-up" class="jsx-1879984714 fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate"><p class="fs-1 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate" data-aos="fade-up">A wonderful retreat experience awaits for you at Naman Retreat - where timeless Vietnamese heritage and culture seamlessly blends with luxurious modern charm.</p></h1><a data-aos="fade-up" data-aos-delay="500" class="jsx-1879984714 mt-5 fs-5 text-bolder text-uppercase alink aos-init aos-animate" href="/en/virtual-tour"><b class="jsx-1879984714">Explore Naman in virtual tour</b></a></div></div></div></div>
+    </section>
+    <!-- END section -->
+
+    <section class="slider-section">
+      <div style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/commons/background_homepage_2.jpg);height:700px;background-repeat:no-repeat;background-size:cover;background-position:bottom" class="jsx-1879984714 background-middle"><div style="background-color:rgba(124, 139, 139, 0.5)" class="jsx-1879984714 text-white h-100 position-relative d-flex align-items-center"><div class="jsx-1879984714 container text-center"><div class="jsx-1879984714 w-75 m-auto"><h1 data-aos="fade-up" class="jsx-1879984714 fs-1 my-5 text-futura text-white aos-init aos-animate">DISCOVER VIETNAMESE CULTURE.</h1><div data-aos="fade-up" data-aos-delay="500" class="jsx-1879984714 fs-2 my-5 text-white aos-init aos-animate"><p class="fs-2 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate" data-aos="fade-up">Awaken your mind and explore the traditional Vietnamese skills of fishing, gardening, basket boating or learn about ancient Vietnamese antiquities.&nbsp;</p></div><a data-aos="fade-up" data-aos-delay="1000" class="jsx-1879984714 mt-5 fs-5 text-bolder text-white text-uppercase alink aos-init aos-animate" href="/en/experience"><b class="jsx-1879984714">DAILY ACTITIVITES AT NAMAN</b></a></div></div></div></div>
     </section>
     <!-- END section -->
 
