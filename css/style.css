@@ -1601,7 +1601,6 @@ textarea.form-control {
 }
 
 .wave-bottom,.wave-top {
-  width: 6400px;
   -webkit-transform: translateZ(0);
   transform: translateZ(0)
 }
