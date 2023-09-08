@@ -356,299 +356,40 @@
       <div style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/commons/background_homepage_2.jpg);height:700px;background-repeat:no-repeat;background-size:cover;background-position:bottom" class="jsx-1879984714 background-middle"><div style="background-color:rgba(124, 139, 139, 0.5)" class="jsx-1879984714 text-white h-100 position-relative d-flex align-items-center"><div class="jsx-1879984714 container text-center"><div class="jsx-1879984714 w-75 m-auto"><h1 data-aos="fade-up" class="jsx-1879984714 fs-1 my-5 text-futura text-white aos-init aos-animate">DISCOVER VIETNAMESE CULTURE.</h1><div data-aos="fade-up" data-aos-delay="500" class="jsx-1879984714 fs-2 my-5 text-white aos-init aos-animate"><p class="fs-2 mb-3 mb-lg-5 text-myriad-light lspace-1 aos-init aos-animate" data-aos="fade-up">Awaken your mind and explore the traditional Vietnamese skills of fishing, gardening, basket boating or learn about ancient Vietnamese antiquities.&nbsp;</p></div><a data-aos="fade-up" data-aos-delay="1000" class="jsx-1879984714 mt-5 fs-5 text-bolder text-white text-uppercase alink aos-init aos-animate" href="/en/experience"><b class="jsx-1879984714">DAILY ACTITIVITES AT NAMAN</b></a></div></div></div></div>
     </section>
     <!-- END section -->
-
-    <section class="section bg-image overlay" style="background-image: url('images/hero_3.jpg');">
-      <div class="container">
-        <div class="row justify-content-center text-center mb-5">
-          <div class="col-md-7">
-            <h2 class="heading text-white" data-aos="fade">Our Restaurant Menu</h2>
-            <p class="text-white" data-aos="fade" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-          </div>
-        </div>
-        <div class="food-menu-tabs" data-aos="fade">
-          <ul class="nav nav-tabs mb-5" id="myTab" role="tablist">
-            <li class="nav-item">
-              <a class="nav-link active letter-spacing-2" id="mains-tab" data-toggle="tab" href="#mains" role="tab" aria-controls="mains" aria-selected="true">Mains</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link letter-spacing-2" id="desserts-tab" data-toggle="tab" href="#desserts" role="tab" aria-controls="desserts" aria-selected="false">Desserts</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link letter-spacing-2" id="drinks-tab" data-toggle="tab" href="#drinks" role="tab" aria-controls="drinks" aria-selected="false">Drinks</a>
-            </li>
-          </ul>
-          <div class="tab-content py-5" id="myTabContent">
-            
-            
-            <div class="tab-pane fade show active text-left" id="mains" role="tabpanel" aria-labelledby="mains-tab">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$20.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Murgh Tikka Masala</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$35.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Fish Moilee</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$15.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Safed Gosht</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$10.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">French Toast Combo</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$8.35</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Vegie Omelet</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$22.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Chorizo &amp; Egg Omelet</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-              
-
-            </div> <!-- .tab-pane -->
-
-            <div class="tab-pane fade text-left" id="desserts" role="tabpanel" aria-labelledby="desserts-tab">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$11.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Banana Split</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$72.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Sticky Toffee Pudding</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$26.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Pecan</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$42.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Apple Strudel</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$7.35</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Pancakes</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$22.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Ice Cream Sundae</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-            </div> <!-- .tab-pane -->
-            <div class="tab-pane fade text-left" id="drinks" role="tabpanel" aria-labelledby="drinks-tab">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$32.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Spring Water</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$14.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Coke, Diet Coke, Coke Zero</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$93.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Orange Fanta</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$18.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Lemonade, Lemon Squash</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$38.35</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Sparkling Mineral Water</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                  <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$69.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Lemon, Lime &amp; Bitters</a></h3>
-                    <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-            </div> <!-- .tab-pane -->
-          </div>
-        </div>
-      </div>
-    </section>
     
     <!-- END section -->
     <section class="section testimonial-section">
-      <div class="container">
-        <div class="row justify-content-center text-center mb-5">
-          <div class="col-md-7">
-            <h2 class="heading" data-aos="fade-up">People Says</h2>
-          </div>
-        </div>
-        <div class="row">
+       <div class="container my-5 py-md-5">
+        <div class="jsx-4188030825 row m-0 align-items-end"><div data-aos="fade-up" data-aos-delay="500" class="jsx-4188030825 col-md-9 aos-init aos-animate"><div class="jsx-4188030825 w-75"><h1 class="jsx-4188030825 fs-1 text-futura">We offer you the best rates and interesting dining opportunities!</h1></div></div><div data-aos="fade-up" data-aos-delay="500" class="jsx-4188030825 col-md-3 text-end d-none d-md-inline aos-init aos-animate"><a class="jsx-4188030825 fs-4 fs-20 text-myriad-light alink" href="/en/offer">See all offers</a></div></div>
+        <div class="row mt-5">
           <div class="js-carousel-2 owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
             
-            <div class="testimonial text-center slider-item">
-              <div class="author-image mb-3">
-                <img src="images/person_1.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
-              </div>
-              <blockquote>
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-                <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
-              </blockquote>
-              <p><em>&mdash; Jean Smith</em></p>
-            </div> 
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-            <div class="testimonial text-center slider-item">
-              <div class="author-image mb-3">
-                <img src="images/person_2.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
-              </div>
-              <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
-              </blockquote>
-              <p><em>&mdash; John Doe</em></p>
-            </div>
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-            <div class="testimonial text-center slider-item">
-              <div class="author-image mb-3">
-                <img src="images/person_3.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
-              </div>
-              <blockquote>
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-                <p>&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&rdquo;</p>
-              </blockquote>
-              <p><em>&mdash; John Doe</em></p>
-            </div>
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-            <div class="testimonial text-center slider-item">
-              <div class="author-image mb-3">
-                <img src="images/person_1.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
-              </div>
-              <blockquote>
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-                <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
-              </blockquote>
-              <p><em>&mdash; Jean Smith</em></p>
-            </div> 
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-            <div class="testimonial text-center slider-item">
-              <div class="author-image mb-3">
-                <img src="images/person_2.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
-              </div>
-              <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
-              </blockquote>
-              <p><em>&mdash; John Doe</em></p>
-            </div>
+            <div class="testimonial text-center slider-item" data-swiper-slide-index="19" ><a class="card bg-transparent border-0 rounded-0" href="/en/offer/Pure-spa-a-la-carte-menu"><img src="https://namanbackend.mpoint.vn/uploads/images/offer/Wellness/treatment room.jpg" class="card-img-top" alt="..."><div class="card-body px-0"><h5 class="card-title fs-4 fs-20 text-myriad-light" style="min-height:50px">Pure spa à la carté menu</h5><div class="fs-6 card-text text-truncate-2 text-myriad-light">Enjoy the variety of Pure Spa treatments, and pampering with our healing therapies, or designing your itinerary.</div></div></a></div>
 
-            <div class="testimonial text-center slider-item">
-              <div class="author-image mb-3">
-                <img src="images/person_3.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
-              </div>
-              <blockquote>
-
-                <p>&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&rdquo;</p>
-              </blockquote>
-              <p><em>&mdash; John Doe</em></p>
-            </div>
-
-          </div>
             <!-- END slider -->
         </div>
 
       </div>
     </section>
-  
-    <section class="section bg-image overlay" style="background-image: url('images/hero_4.jpg');">
-        <div class="container" >
-          <div class="row align-items-center">
-            <div class="col-12 col-md-6 text-center mb-4 mb-md-0 text-md-left" data-aos="fade-up">
-              <h2 class="text-white font-weight-bold">A Best Place To Stay. Reserve Now!</h2>
-            </div>
-            <div class="col-12 col-md-6 text-center text-md-right" data-aos="fade-up" data-aos-delay="200">
-              <a href="reservation.html" class="btn btn-outline-white-primary py-3 text-white px-5">Reserve Now</a>
-            </div>
-          </div>
-        </div>
-      </section>
 
     <footer class="section footer-section">
-      <div class="container">
-        <div class="row mb-4">
-          <div class="col-md-3 mb-5">
-            <ul class="list-unstyled link">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Terms &amp; Conditions</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-             <li><a href="#">Rooms</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 mb-5">
-            <ul class="list-unstyled link">
-              <li><a href="#">The Rooms &amp; Suites</a></li>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Restaurant</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 mb-5 pr-md-5 contact-info">
-            <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
-            <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span> 198 West 21th Street, <br> Suite 721 New York NY 10016</span></p>
-            <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Phone:</span> <span> (+1) 435 3533</span></p>
-            <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info@domain.com</span></p>
-          </div>
-          <div class="col-md-3 mb-5">
-            <p>Sign up for our newsletter</p>
-            <form action="#" class="footer-newsletter">
-              <div class="form-group">
-                <input type="email" class="form-control" placeholder="Email...">
-                <button type="submit" class="btn"><span class="fa fa-paper-plane"></span></button>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="row pt-5">
-          <p class="col-md-6 text-left">
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-          </p>
-            
-          <p class="col-md-6 text-right social">
-            <a href="#"><span class="fa fa-tripadvisor"></span></a>
-            <a href="#"><span class="fa fa-facebook"></span></a>
-            <a href="#"><span class="fa fa-twitter"></span></a>
-            <a href="#"><span class="fa fa-linkedin"></span></a>
-            <a href="#"><span class="fa fa-vimeo"></span></a>
-          </p>
-        </div>
-      </div>
+      <div class="footer-content " style="background-image:url(https://namanbackend.mpoint.vn/uploads/images/layout/soft-wave-sea-empty-sandy-beach.jpg)"><div class="container py-5"><div class="row m-0"><div class="col-6 offset-3 col-md-4 offset-md-4 text-center"><img src="https://namanbackend.mpoint.vn/uploads/images/layout/logoNaman-black.png" class="img-fluid" width="88%"></div></div><div class="row m-0 mt-md-5 pt-3 gx-5 gy-5"><div class="col-md-3"><p class="fs-4 text-uppercase text-bolder mb-4" style="letter-spacing:5px">Contact US</p><div class="fs-6"><p class="text-bolder"><i class="bi bi-geo-alt-fill"></i><span class="text-light-semi">Truong Sa Street, Ngu Hanh Son District, Da Nang City</span></p><p class="text-bolder"><i class="bi bi-telephone-fill"></i><a class="text-light-semi " href="tel:+842363959888"> (+84) 236 3959 888</a></p><p class="text-bolder"><i class="bi bi-telephone-fill"></i><a class="text-light-semi " href="tel:+842363959888"> (+84) 0918966274</a></p><p class="text-bolder"><i class="bi bi-envelope-fill"></i><a class="text-light-semi " href="mailto:info@namanretreat.com"> info@namanretreat.com</a></p></div></div><div class="col-md-7 text-uppercase d-none d-md-inline"><div class="row m-0 fs-6"><div class="col-12"><p class="fs-4 text-uppercase text-bolder mb-4" style="letter-spacing:5px">Site map</p></div><div class="col"><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en">HOME</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/about">ABOUT NAMAN</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/contactus">CONTACT US</a></li></ul></div><div class="col"><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/accommodation">ACCOMMODATION</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/spa-and-wellness">SPA &amp; WELLNESS</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/dining">Dining</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/experience">EXPERIENCE</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/meeting-event">MEETINGS &amp; EVENTS</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/wedding">WEDDING</a></li></ul></div><div class="col"><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/offer">OFFERS</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/blog">BLOGS</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/virtual-tour">VIRTUAL TOUR</a></li></ul><ul class="ul-underline mb-2"><li><a class="text-light-semi text-uppercase" href="/en/gallery/photo-gallery">GALLERY</a></li></ul></div></div></div><div class="col-md-2" style="letter-spacing:5px"><p class="fs-4 text-uppercase text-bolder mb-4"> Follow US</p><ul class="ul-underline mb-2"><li class="mb-3"><a class="text-bolder text-uppercase fs-3 p-1" href="https://www.facebook.com/NamanRetreat/" target="_blank" rel="noreferrer"><i class="bi bi-facebook"></i></a></li><li class="mb-3"><a class="text-bolder text-uppercase fs-3 p-1" href="https://www.instagram.com/namanretreat/" target="_blank" rel="noreferrer"><i class="bi bi-instagram"></i></a></li><li class="mb-3"><a class="text-bolder text-uppercase fs-3 p-1" href="https://www.youtube.com/c/NamanRetreatvn/videos" target="_blank" rel="noreferrer"><i class="bi bi-youtube"></i></a></li></ul></div></div></div><div class="" style="padding-top:200px"></div></div>
     </footer>
     
     <script src="js/jquery-3.3.1.min.js"></script>

@@ -557,7 +557,7 @@ textarea.form-control {
     transform: rotate(-135deg); }
 
 .section {
-  padding: 2em 0; }
+  padding: 0; }
   @media (max-width: 991.98px) {
     .section {
       padding: 3em 0; } }
@@ -667,6 +667,10 @@ textarea.form-control {
   text-transform: uppercase;
   letter-spacing: .2em;
   font-size: 14px; }
+
+.card-img,.card-img-bottom,.card-img-top {
+  width: 100%
+}
 
 .owl-carousel .owl-item {
   opacity: .4; }
@@ -838,19 +842,20 @@ textarea.form-control {
     right: -30px !important; }
 
 .owl-carousel.js-carousel-2 .owl-dots .owl-dot {
-  display: inline-block;
-  border: none; }
-  .owl-carousel.js-carousel-2 .owl-dots .owl-dot > span {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: #e9ecef;
-    display: inline-block; }
-  .owl-carousel.js-carousel-2 .owl-dots .owl-dot.active > span {
-    background: #ffba5a; }
-  .owl-carousel.js-carousel-2 .owl-dots .owl-dot:active, .owl-carousel.js-carousel-2 .owl-dots .owl-dot:focus, .owl-carousel.js-carousel-2 .owl-dots .owl-dot:hover {
-    outline: none; }
-
+  border-radius: 0!important;
+  width: 28px!important;
+  height: 2px!important;
+  border: 2px solid transparent;
+  outline: none !important;
+  position: relative;
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  background: #d9d9d9!important; }
+  .owl-carousel.js-carousel-2 .owl-dots .owl-dot.active {
+    border: 2px solid #445d4d;
+    background: none; }
+    
 .owl-custom-nav {
   float: right;
   position: relative;
@@ -866,7 +871,6 @@ textarea.form-control {
     display: inline-block; }
 
 .footer-section {
-  background: #1a1a1a;
   color: #fff; }
   .footer-section a {
     color: rgba(255, 255, 255, 0.7); }
