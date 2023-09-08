@@ -988,14 +988,11 @@ textarea.form-control {
     text-align: center;
     display: inline-block; }
 
-.footer-section {
-  color: #fff; }
+
   .footer-section a {
     color: rgba(255, 255, 255, 0.7); }
     .footer-section a:hover {
       color: #fff; }
-  .footer-section p {
-    color: rgba(255, 255, 255, 0.5); }
   .footer-section .bordertop {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     padding-top: 20px; }

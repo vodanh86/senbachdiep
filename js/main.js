@@ -87,9 +87,13 @@
 
 	// owl carousel
 	var major2Carousel = $('.js-carousel-2');
+  var numberItem = 3;
+  if ($(document).width() < 758) {
+    numberItem = 1;
+  };
 	major2Carousel.owlCarousel({
     loop:true,
-    items:3,
+    items:numberItem,
     margin:10,
     autoplay:true,
     autoplayTimeout:3000,
